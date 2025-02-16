@@ -10,13 +10,6 @@ This repository contains a collection of API integrations for various services.
 
 [OpenAI](AI/OpenAI)
 
-## Cloud
-[AWS](Cloud/AWS)
-
-[Azure](Cloud/Azure)
-
-[GoogleCloud](Cloud/GoogleCloud)
-
 ## Communication
 [Twilio](Communication/Twilio)
 
